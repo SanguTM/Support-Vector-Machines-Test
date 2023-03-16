@@ -1,0 +1,44 @@
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\bin\Release\net7.0\Support Vector Machines Test.exe
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\bin\Release\net7.0\Accord.dll.config
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\bin\Release\net7.0\Support Vector Machines Test.deps.json
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\bin\Release\net7.0\Support Vector Machines Test.runtimeconfig.json
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\bin\Release\net7.0\Support Vector Machines Test.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\bin\Release\net7.0\Support Vector Machines Test.pdb
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\bin\Release\net7.0\Accord.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\bin\Release\net7.0\Accord.MachineLearning.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\bin\Release\net7.0\Accord.Math.Core.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\bin\Release\net7.0\Accord.Math.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\bin\Release\net7.0\Accord.Statistics.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.csproj.AssemblyReference.cache
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.AssemblyInfoInputs.cache
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.AssemblyInfo.cs
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.csproj.CoreCompileInputs.cache
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.csproj.CopyComplete
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\obj\Release\net7.0\refint\Support Vector Machines Test.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.pdb
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.genruntimeconfig.cache
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support Vector Machines Test\obj\Release\net7.0\ref\Support Vector Machines Test.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net7.0\Support Vector Machines Test.exe
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net7.0\Accord.dll.config
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net7.0\Support Vector Machines Test.deps.json
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net7.0\Support Vector Machines Test.runtimeconfig.json
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net7.0\Support Vector Machines Test.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net7.0\Support Vector Machines Test.pdb
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net7.0\Accord.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net7.0\Accord.MachineLearning.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net7.0\Accord.Math.Core.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net7.0\Accord.Math.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net7.0\Accord.Statistics.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.csproj.AssemblyReference.cache
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.AssemblyInfoInputs.cache
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.AssemblyInfo.cs
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.csproj.CoreCompileInputs.cache
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.csproj.CopyComplete
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net7.0\refint\Support Vector Machines Test.dll
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.pdb
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net7.0\Support Vector Machines Test.genruntimeconfig.cache
+F:\Paskaitos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net7.0\ref\Support Vector Machines Test.dll
