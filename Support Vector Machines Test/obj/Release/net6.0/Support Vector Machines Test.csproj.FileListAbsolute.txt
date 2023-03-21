@@ -1,0 +1,22 @@
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net6.0\Support Vector Machines Test.exe
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net6.0\Accord.dll.config
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net6.0\Support Vector Machines Test.deps.json
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net6.0\Support Vector Machines Test.runtimeconfig.json
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net6.0\Support Vector Machines Test.dll
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net6.0\Support Vector Machines Test.pdb
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net6.0\Accord.dll
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net6.0\Accord.MachineLearning.dll
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net6.0\Accord.Math.Core.dll
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net6.0\Accord.Math.dll
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\bin\Release\net6.0\Accord.Statistics.dll
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net6.0\Support Vector Machines Test.csproj.AssemblyReference.cache
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net6.0\Support Vector Machines Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net6.0\Support Vector Machines Test.AssemblyInfoInputs.cache
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net6.0\Support Vector Machines Test.AssemblyInfo.cs
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net6.0\Support Vector Machines Test.csproj.CoreCompileInputs.cache
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net6.0\Support Vector Machines Test.csproj.CopyComplete
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net6.0\Support Vector Machines Test.dll
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net6.0\refint\Support Vector Machines Test.dll
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net6.0\Support Vector Machines Test.pdb
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net6.0\Support Vector Machines Test.genruntimeconfig.cache
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net6.0\ref\Support Vector Machines Test.dll

@@ -5,7 +5,6 @@ using Accord.Statistics.Kernels;
 
 // uses Accord.MachineLearning v3.8.0
 // Framework 4.7
-// source code: http://crsouza.com/2010/04/27/kernel-support-vector-machines-for-classification-and-regression-in-c/
 //https://visualstudiomagazine.com/Articles/2019/02/01/Support-Vector-Machines.aspx?Page=1
 namespace SVM_CSharp
 {
@@ -22,9 +21,10 @@ namespace SVM_CSharp
         new double[] { 0,6,12,15 }, new double[] { 1,4,8,10 },
         new double[] { 9,7,5,0 }, new double[] { 14,7,0,-1 },
         new double[] { 6,9,12,-20 }, new double[] { 8,9,10,14 },
-        new double[] { 1.45,0.43,-12,15 }, new double[] { 8.13, -9, 0.22,-0.5 }  };
+        new double[] { 1.45,0.43,-12,15 }, new double[] { 8.13, -9, 0.22,-0.5 },
+        new double[] { 5,7.5,9,13 }, new double[] { 2.45, -8, -0.22,-0.5 }};
 
-            int[] y = { -1, -1, -1, -1, 1, 1, 1, 1, -1, 1 };  // or 0, 1
+            int[] y = { -1, -1, -1, -1, 1, 1, 1, 1, -1, 1, 1, -1 };  
 
             for (int i = 0; i < X.Length; ++i)
             {

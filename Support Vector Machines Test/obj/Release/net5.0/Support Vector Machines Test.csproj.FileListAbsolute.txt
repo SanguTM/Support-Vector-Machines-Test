@@ -1,0 +1,5 @@
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net5.0\Support Vector Machines Test.csproj.AssemblyReference.cache
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net5.0\Support Vector Machines Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net5.0\Support Vector Machines Test.AssemblyInfoInputs.cache
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net5.0\Support Vector Machines Test.AssemblyInfo.cs
+D:\Dokumentai\Studijos\Dirbtinis Intelektas\Support Vector Machines Test\Support-Vector-Machines-Test\Support Vector Machines Test\obj\Release\net5.0\Support Vector Machines Test.csproj.CoreCompileInputs.cache
